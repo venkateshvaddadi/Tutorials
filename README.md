@@ -1,4 +1,4 @@
-# Tutorials
+# Tutorials for AIMI (Artificial Intelligence for Medical Imaging Analysis)
 Tutorials
 
 1. Topics of Python
